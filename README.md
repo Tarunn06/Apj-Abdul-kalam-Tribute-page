@@ -5,7 +5,7 @@ This is a heartfelt tribute page dedicated to the memory of the great visionary,
 **Tech Stack:**
 - HTML: Used to structure the content of the tribute page and define its layout.
 - CSS: Employed to style and enhance the visual appearance of the page, giving it an elegant and appealing look.
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ndtvimg.com%2Fi%2F2016-12%2Fapj-abdul-kalam_650x400_51481193286.jpg&tbnid=G0Cg6Dkq6ztouM&vet=12ahUKEwjs8NrU_rqAAxXr0KACHV0YD0cQMygJegUIARCxAQ..i&imgrefurl=https%3A%2F%2Fwww.ndtv.com%2Findia-news%2Fdr-apj-abdul-kalam-birth-anniversary-pm-pays-tribute-to-missile-man-says-india-salutes-dr-apj-abdul-2116961&docid=8ogTYq2Z9L-5zM&w=650&h=400&q=apj%20abdul%20kalam&client=firefox-b-d&ved=2ahUKEwjs8NrU_rqAAxXr0KACHV0YD0cQMygJegUIARCxAQ
+
 **About Dr. APJ Abdul Kalam:**
 Dr. APJ Abdul Kalam, who lived from 1931 to 2015, was an eminent Indian scientist and the 11th President of India, serving from 2002 to 2007. He left an indelible mark on the nation and the world with his remarkable contributions to science, technology, and leadership.
 
